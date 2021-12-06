@@ -1,0 +1,11 @@
+name: mo443
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - opencv
+  - ninja
